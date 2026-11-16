@@ -1,0 +1,52 @@
+[
+  {
+    "course": "physics",
+    "slug": "mechanical-waves",
+    "title": "機械波與波函數",
+    "chapter": "第 13 章",
+    "description": "波速、波長、週期、波函數",
+    "source": "chapter13_PC-r2_a0cc8668ff944f34863436ce84821c39.pdf",
+    "pages": "PDF 第 1–3、5–8、10–11 頁",
+    "markdown": "wiki/physics/mechanical-waves.md"
+  },
+  {
+    "course": "physics",
+    "slug": "standing-waves",
+    "title": "疊加、駐波與拍頻",
+    "chapter": "第 14 章",
+    "description": "疊加原理、波節波腹、諧波、拍頻",
+    "source": "chapter14_PC-r_4c06fae082da8627d960779708a3d3dc.pdf",
+    "pages": "PDF 第 2–6、7–12 頁",
+    "markdown": "wiki/physics/standing-waves.md"
+  },
+  {
+    "course": "statistics",
+    "slug": "intro-data",
+    "title": "資料概論與抽樣",
+    "chapter": "第 1 章",
+    "description": "變數、抽樣方法、觀察研究、實驗",
+    "source": "01_IntroToData_2026h.pdf",
+    "pages": "PDF 第 3、6–9、12–22 頁",
+    "markdown": "wiki/statistics/intro-data.md"
+  },
+  {
+    "course": "statistics",
+    "slug": "probability",
+    "title": "機率與隨機變數",
+    "chapter": "第 3 章",
+    "description": "條件機率、獨立、期望值、變異數",
+    "source": "03_Probability_2026h.pdf",
+    "pages": "PDF 第 8–17、18–23、25–29、38–40 頁",
+    "markdown": "wiki/statistics/probability.md"
+  },
+  {
+    "course": "statistics",
+    "slug": "inference-estimation",
+    "title": "統計推論：估計與信賴區間",
+    "chapter": "第 5 章",
+    "description": "抽樣分配、中央極限定理、信賴區間",
+    "source": "05_InferenceEst_2026h.pdf",
+    "pages": "PDF 第 2、4–10、13–17、20–27 頁",
+    "markdown": "wiki/statistics/inference-estimation.md"
+  }
+]
